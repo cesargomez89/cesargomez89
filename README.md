@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=CBA6F7&background=1E1E2E&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B;I'm+your+conscience+%F0%9F%91%81%EF%B8%8F;Please+test+your+code+%F0%9F%99%8F%F0%9F%8F%BB)](https://git.io/typing-svg)
+
 ## Dotfiles
 I use NixOS and Neovim btw:
 - [❄️ Dotflakes](https://github.com/cesargomez89/dotflakes)

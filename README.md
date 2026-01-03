@@ -1,3 +1,11 @@
+## About
+
+Senior Ruby on Rails Engineer with 12+ years of experience architecting, scaling, and modernizing backend systems across
+high-growth SaaS, fintech, and communications platforms. Deep expertise in distributed systems, service decomposition,
+performance optimization, and upgrading legacy codebases. Known for reducing operational bottlenecks, improving system
+reliability, enforcing engineering standards, mentoring teams, and delivering stable, well-tested software. Strong collaborator
+with experience building multi-service platforms, CI/CD automation, and developer tooling in fast-paced product environments.
+
 ## Dotfiles
 I use NixOS and Neovim btw:
 - [❄️ Dotflakes](https://github.com/cesargomez89/dotflakes)

@@ -14,24 +14,30 @@ I specialize in **modernizing legacy systems**, **scaling Rails applications**, 
 - 🔄 **Modernize legacy codebases** (Rails upgrades, dependency cleanup, test coverage)
 - 🤖 **Build developer tooling & CI/CD** to remove friction and reduce production risk
 - 🧠 **Mentor engineers** and establish pragmatic engineering standards
+- 💮 **Full-stack development** to create applications E2E from zero to production.
 
 ---
 
 ## 🧰 Tech Stack
 
 **Backend**
-- Ruby, Ruby on Rails, Go
-- PostgreSQL, Redis
-- Kafka, Sidekiq, Background processing
+- Ruby, Ruby on Rails, Go, Node, Nest.js
+- PostgreSQL, Redis, Kafka
+- Karafka, Sidekiq, Background processing
 
 **Frontend (when needed)**
-- JavaScript, HTML, CSS, Tailwind
+- JavaScript, HTML, CSS, Tailwind, React, Stimulus, Hotwire
 
 **Infrastructure & Tooling**
-- Docker, AWS
+- Docker, AWS, Heroku
 - CI/CD pipelines
 - Nix / NixOS
-- Neovim
+- Git, Neovim, Tmux
+
+**Architecture**
+- Domain Driven Design
+- Layered Architecture
+- Design Patterns
 
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,go,js,postgres,docker,kafka,aws,nix,neovim)](https://skillicons.dev)
 
